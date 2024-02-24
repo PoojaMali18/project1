@@ -28,6 +28,7 @@ const Fetchdata = () => {
                         <th>Symbol</th>
                         <th>Current Price</th>
                         <th>Total Volume</th>
+            
                     </tr>
                 </thead>
                 <tbody>
